@@ -26,8 +26,8 @@ URL = "js/library/fontfaceobserver.js"
 [menu]
 
 [[menu.header]]
-name = "About"
-URL = "#about"
+name = "Work"
+URL = "#experience"
 weight = 2
 
 [[menu.header]]
@@ -35,15 +35,15 @@ name = "Portfolio"
 URL = "#portfolio"
 weight = 3
 
-[[menu.header]]
-name = "Contact"
-URL = "#contact"
-weight = 4
+#[[menu.header]]
+#name = "Contact"
+#URL = "#contact"
+#weight = 4
 
 
 [[menu.footer]]
-name = "About"
-URL = "#about"
+name = "Work"
+URL = "#experience"
 weight = 2
 
 [[menu.footer]]
@@ -51,10 +51,10 @@ name = "Portfolio"
 URL = "#portfolio"
 weight = 3
 
-[[menu.footer]]
-name = "Contact"
-URL = "#contact"
-weight = 4
+#[[menu.footer]]
+#name = "Contact"
+#URL = "#contact"
+#weight = 4
 
 
 [params]
@@ -64,12 +64,12 @@ sections = ["showcase", "about", "education", "experience", "client-and-work", "
 googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
 [params.logo]
-text1 = "Andreas"
-text2 = "Ellure"
+text1 = "John"
+text2 = "Cosio"
 
 [params.footer]
-copyright = "© Raditian. All rights reserved."
+copyright = "© Sudoist. All rights reserved."
 [params.footer.radity_logo]
-x = "img/general/design-and-code-radity.png"
-_2x = "img/general/design-and-code-radity@2x.png"
-alt = "Design & Code - Radity"
+x = "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1559069831/hugo/jcos.io/wing-p2_z9hazr.png"
+_2x = "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1559069831/hugo/jcos.io/wing-p2_z9hazr.png"
+alt = "Some random gundam"
