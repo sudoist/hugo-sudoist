@@ -26,12 +26,12 @@ URL = "js/library/fontfaceobserver.js"
 [menu]
 
 [[menu.header]]
-name = "Work"
+name = "Experience"
 URL = "#experience"
 weight = 2
 
 [[menu.header]]
-name = "Portfolio"
+name = "What I do"
 URL = "#portfolio"
 weight = 3
 
@@ -42,12 +42,12 @@ weight = 3
 
 
 [[menu.footer]]
-name = "Work"
+name = "Experience"
 URL = "#experience"
 weight = 2
 
 [[menu.footer]]
-name = "Portfolio"
+name = "What I do"
 URL = "#portfolio"
 weight = 3
 

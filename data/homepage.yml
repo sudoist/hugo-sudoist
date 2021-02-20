@@ -140,7 +140,7 @@ experience:
       duration: "Jun 2020 - Nov 2020"
 
     - title: "Full Stack Developer"
-      company: MicroSourcing
+      company: "MicroSourcing"
       duration: "Jan 2019 - Feb 2020"
 
     - title: "Frontend Web Developer"
@@ -157,72 +157,107 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Work & Services"
   enable: true
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794463/hugo/sudoist.com/nmx68z6mldpcy1nguvik.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_150/v1613794463/hugo/sudoist.com/nmx68z6mldpcy1nguvik.png"
+      alt: "SkillSuccess"
 
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794463/hugo/sudoist.com/shgxornu6umvyfeyojbs.jpg"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794463/hugo/sudoist.com/shgxornu6umvyfeyojbs.jpg"
+      alt: "MealsMaker"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794465/hugo/sudoist.com/izbtxvkg2fu0sqbi4gty.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1613794465/hugo/sudoist.com/izbtxvkg2fu0sqbi4gty.png"
+      alt: "Globe"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794463/hugo/sudoist.com/anybs04hqgbhh4wi1njs.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_150/v1613794463/hugo/sudoist.com/anybs04hqgbhh4wi1njs.png"
+      alt: "917Ventures"
 
     - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613795242/hugo/sudoist.com/k6xk2ym5lowcfat563aa.jpg"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_150/v1613795242/hugo/sudoist.com/k6xk2ym5lowcfat563aa.jpg"
+      alt: "Asticom"
 
     - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1613794464/hugo/sudoist.com/anmjfqbwyp1nnssgdoee.jpg"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1613794464/hugo/sudoist.com/anmjfqbwyp1nnssgdoee.jpg"
+      alt: "WinLED"
+
+    - logo:
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1613794463/hugo/sudoist.com/j9tgrgjwwf5nto7rizao.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1613794463/hugo/sudoist.com/j9tgrgjwwf5nto7rizao.png"
+      alt: "MicroSourcing"
+
+    - logo:
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794464/hugo/sudoist.com/djttaywe0heef5pgqoe6.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794464/hugo/sudoist.com/djttaywe0heef5pgqoe6.png"
+      alt: "Disney Aulani"
+
+    - logo:
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794463/hugo/sudoist.com/jmalwvt4qcdf6wmb0adm.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_150/v1613794463/hugo/sudoist.com/jmalwvt4qcdf6wmb0adm.png"
+      alt: "RCG"
+
+    - logo:
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_150/v1613794464/hugo/sudoist.com/ninuj2ctcolk534gsbbf.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1613794464/hugo/sudoist.com/ninuj2ctcolk534gsbbf.png"
+      alt: "Leon Gallery"
+
+    - logo:
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_150/v1613794464/hugo/sudoist.com/jijy3nv0ng1iyuisi9tl.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1613794464/hugo/sudoist.com/jijy3nv0ng1iyuisi9tl.png"
+      alt: "Fastrack Courier Services"
+
+    - logo:
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1613794463/hugo/sudoist.com/i6nv5xwao8vd8trp1ztq.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1613794463/hugo/sudoist.com/i6nv5xwao8vd8trp1ztq.png"
+      alt: "The Manila Times"
+
+    - logo:
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_150/v1613794464/hugo/sudoist.com/bnz7c7blmsksa9gxldts.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_150/v1613794464/hugo/sudoist.com/bnz7c7blmsksa9gxldts.png"
+      alt: "Philippine National Bank"
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "Programming"
+      description: "My main job in terms of MMORPG, I mostly do PHP based work but also learning on modern tools and technologies that are in demand. It's a great way to practice problem solving and lose your mind along the way.(That is me doing the latter) Need to keep up to stay relevant."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "See my work"
+        URL: "https://tigasoft.dev/"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_500/hugo/jcos.io/modulo_qimfjl.jpg"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/modulo_qimfjl.jpg"
       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+    - title: "Image Editing"
+      description: "This is useful occasionally for web development when need to edit media assets. I mostly do this as a hobby. Before started painting Gundam models, I'd take a photo then edit it instead. Model kit paints are expensive."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "Checkout my projects"
+        URL: "https://jcos.io/projects/"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_900/v1566442766/hugo/jcos.io/gimp-wing-vs-ds/wing_vs_ds_gradient-res1_tfya8l.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/v1566442766/hugo/jcos.io/gimp-wing-vs-ds/wing_vs_ds_gradient-res1_tfya8l.png"
       is_even: false
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    - title: "Photography"
+      description: "Well maybe this is a stretch but sometimes when I go to other places and see something interesting I take a photo with my phone. Sometimes it turns out great. Most of the times nothing special. I enjoy taking photos of mountains and bodies of water then making it my wallpaper"
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "Visit my Unsplash"
+        URL: "https://unsplash.com/@jcosio"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_900/hugo/jcos.io/laptop-priorities/mxlinux_bbm9dk.png"
+        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_800/hugo/jcos.io/laptop-priorities/mxlinux_bbm9dk.png"
       is_even: true
 
 # testimonial
