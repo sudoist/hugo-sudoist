@@ -213,7 +213,7 @@ client_and_work:
 
   works:
     - title: "Programming"
-      description: "My main job in terms of MMORPG, I mostly do PHP based work but also learning on modern tools and technologies that are in demand. It's a great way to practice problem solving and lose your mind along the way.(That is me doing the latter) Need to keep up to stay relevant."
+      description: "My main job in terms of MMORPG,<br>I mostly do PHP based work but also learning modern tools and technologies.<br> Need to keep up to stay relevant.<br> It's a great way to practice problem solving and lose your mind along the way.(That is me with the latter)<br> Learning is fun, theorycrafting on what you can do with what you learn makes it more enjoyable."
       button:
         icon: "icon-arrow-right"
         btnText: "See my work"
@@ -224,7 +224,7 @@ client_and_work:
       is_even: true
 
     - title: "Image Editing"
-      description: "This is useful occasionally for web development when need to edit media assets. I mostly do this as a hobby. Before started painting Gundam models, I'd take a photo then edit it instead. Model kit paints are expensive."
+      description: "This is useful occasionally for web development when need to edit media assets.<br> I mostly do this as a hobby.<br> Before started painting Gundam models, I'd take a photo then edit it instead.<br> Model kit paints are expensive."
       button:
         icon: "icon-arrow-right"
         btnText: "Checkout my projects"
@@ -235,7 +235,7 @@ client_and_work:
       is_even: false
 
     - title: "Photography"
-      description: "Well maybe this is a stretch but sometimes when I go to other places and see something interesting I take a photo with my phone. Sometimes it turns out great. Most of the times nothing special. I enjoy taking photos of mountains and bodies of water then making it my wallpaper"
+      description: "Well maybe this is a stretch but sometimes when I go to other places and see something interesting I take a photo with my phone.<br> Sometimes it turns out great.<br> Most of the times nothing special.<br> I enjoy taking photos of mountains and bodies of water then making it my wallpaper."
       button:
         icon: "icon-arrow-right"
         btnText: "Visit my Unsplash"
