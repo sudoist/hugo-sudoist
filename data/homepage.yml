@@ -147,16 +147,6 @@ client_and_work:
 
   clients:
     - logo:
-        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794463/hugo/sudoist.com/nmx68z6mldpcy1nguvik.png"
-        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_150/v1613794463/hugo/sudoist.com/nmx68z6mldpcy1nguvik.png"
-      alt: "SkillSuccess"
-
-    - logo:
-        x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794463/hugo/sudoist.com/shgxornu6umvyfeyojbs.jpg"
-        _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794463/hugo/sudoist.com/shgxornu6umvyfeyojbs.jpg"
-      alt: "MealsMaker"
-
-    - logo:
         x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_100/v1613794465/hugo/sudoist.com/izbtxvkg2fu0sqbi4gty.png"
         _2x: "https://res.cloudinary.com/langitlupakintoncloud/image/upload/w_200/v1613794465/hugo/sudoist.com/izbtxvkg2fu0sqbi4gty.png"
       alt: "Globe"
