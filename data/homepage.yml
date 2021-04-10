@@ -75,7 +75,7 @@ about:
 
 # education
 education:
-  enable: true
+  enable: false
   title: "Education"
   items:
     - university: "University of the East"
